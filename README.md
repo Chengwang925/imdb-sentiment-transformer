@@ -100,4 +100,4 @@ Increasing embedding size and depth, combined with slightly stronger dropout and
 
 ## Tech Stack
 
-Python · PyTorch · Hugging Face Transformers (tokenizer only) · Pandas · Matplotlib
+Python · PyTorch · Hugging Face Transformers · Pandas · Matplotlib
