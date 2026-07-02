@@ -1,0 +1,22 @@
+# Dataset (too large for GitHub, users download it themselves)
+aclImdb/
+aclImdb_v1.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pt
+*.pth
+*.bin
+
+# Environment
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
